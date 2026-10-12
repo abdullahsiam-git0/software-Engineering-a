@@ -1,0 +1,9 @@
+Name: Abdullah Siam
+
+Department: Computer Science and Engineering (CSE)
+
+University: American International University-Bangladesh (AIUB)
+
+Course: Software Engineering
+
+Purpose: Learning Git and GitHub version control, branching, committing, and merging.
